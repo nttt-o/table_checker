@@ -80,6 +80,4 @@ object Main extends App {
 
   }
 
-  val oldNames = Array("amdocs.subscriber", "amdocs.rated_feature", "amdocs.soc")
-  oldNames.foreach(name => compareTables(name))
 }
