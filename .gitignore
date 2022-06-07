@@ -1,0 +1,8 @@
+.idea/*
+.bsp/*
+target/*
+project/*
+*.iml
+
+!project/build.properties
+!project/plugins.sbt
